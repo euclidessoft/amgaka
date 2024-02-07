@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 06 Feb 2024 17:01:11 at https://account.amgaka.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://account.amgaka.com -O1 "C:\My Web Sites\momcompteAmgakam" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:01:13	Warning: 	Found for https://account.amgaka.com/robots.txt
+17:01:13	Warning: 	File has moved from https://account.amgaka.com/robots.txt to https://account.amgaka.com/error?error_return=Nous+ne+retrouvons+pas+la+route+%3Cb+class%3D%27text-dark%27%3E%27+robots.txt+%27%3C%2Fb%3E
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 3 seconds : 78 links scanned, 76 files written (17261071 bytes overall) [17107816 bytes received at 271552 bytes/sec], 255387 bytes transferred using HTTP compression in 25 files, ratio 28%, 5.6 requests per connection
+(No errors, 2 warnings, 0 messages)

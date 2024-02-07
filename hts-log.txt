@@ -1,0 +1,74 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 06 Feb 2024 16:34:22 at https://amgaka.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://amgaka.com/ -O1 "C:\My Web Sites\amgaka" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:34:23	Warning: 	Found for https://amgaka.com/robots.txt
+16:34:23	Warning: 	File has moved from https://amgaka.com/robots.txt to https://amgaka.com/en/robots.txt
+16:34:24	Warning: 	Found for https://amgaka.com/
+16:34:24	Warning: 	File has moved from https://amgaka.com/ to https://amgaka.com/en/
+16:34:53	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://amgaka.com/wp-content/plugins/jeg-elementor-kit/lib/jeg-framework/assets/css/jeg-dynamic-styles.css?ver=1.3.0
+16:35:00	Error: 	"Not Found" (404) at link https://amgaka.com/en/xmlrpc.php (from https://amgaka.com/en/)
+16:35:00	Warning: 	Found for https://amgaka.com/feed/
+16:35:00	Warning: 	File has moved from https://amgaka.com/feed/ to https://amgaka.com/en/feed/
+16:35:00	Warning: 	Found for https://amgaka.com/comments/feed/
+16:35:00	Warning: 	File has moved from https://amgaka.com/comments/feed/ to https://amgaka.com/en/comments/feed/
+16:35:12	Error: 	"Not Found" (404) at link https://amgaka.com/en/xmlrpc.php?rsd (from https://amgaka.com/en/)
+16:35:12	Warning: 	Found for https://amgaka.com/interpretes-pro/
+16:35:12	Warning: 	File has moved from https://amgaka.com/interpretes-pro/ to https://amgaka.com/en/interpretes-pro/
+16:35:16	Warning: 	Found for https://amgaka.com/passiones-de-langues/
+16:35:16	Warning: 	File has moved from https://amgaka.com/passiones-de-langues/ to https://amgaka.com/en/passiones-de-langues/
+16:35:17	Warning: 	Found for https://amgaka.com/abonnement/
+16:35:17	Warning: 	File has moved from https://amgaka.com/abonnement/ to https://amgaka.com/en/abonnement/
+16:35:17	Warning: 	Found for https://amgaka.com/a-propos-de-nous/
+16:35:17	Warning: 	File has moved from https://amgaka.com/a-propos-de-nous/ to https://amgaka.com/en/a-propos-de-nous/
+16:35:22	Warning: 	Found for https://amgaka.com/nous-contacter/
+16:35:22	Warning: 	File has moved from https://amgaka.com/nous-contacter/ to https://amgaka.com/en/nous-contacter/
+16:35:22	Warning: 	Found for https://amgaka.com/?wg-choose-original=true
+16:35:22	Warning: 	File has moved from https://amgaka.com/?wg-choose-original=true to https://amgaka.com/
+16:35:22	Error: 	"Error when decompressing" (-1) at link https://amgaka.com/a-propos-de-nous (from https://amgaka.com/en/)
+16:35:27	Error: 	"Error when decompressing" (-1) at link https://amgaka.com/nous-contacter (from https://amgaka.com/en/)
+16:36:08	Warning: 	Moved Permanently for https://amgaka.com/?p=182
+16:36:08	Warning: 	File has moved from https://amgaka.com/?p=182 to https://amgaka.com/faq/
+16:36:08	Warning: 	Found for https://amgaka.com/en/faq/?wg-choose-original=false
+16:36:08	Warning: 	File has moved from https://amgaka.com/en/faq/?wg-choose-original=false to https://amgaka.com/en/faq/
+16:36:08	Warning: 	Moved Permanently for https://amgaka.com/?p=167
+16:36:08	Warning: 	File has moved from https://amgaka.com/?p=167 to https://amgaka.com/privacy/
+16:36:09	Warning: 	Found for https://amgaka.com/en/privacy/?wg-choose-original=false
+16:36:09	Warning: 	File has moved from https://amgaka.com/en/privacy/?wg-choose-original=false to https://amgaka.com/en/privacy/
+16:36:09	Warning: 	Moved Permanently for https://amgaka.com/?p=169
+16:36:09	Warning: 	File has moved from https://amgaka.com/?p=169 to https://amgaka.com/terms/
+16:36:14	Warning: 	Found for https://amgaka.com/en/terms/?wg-choose-original=false
+16:36:14	Warning: 	File has moved from https://amgaka.com/en/terms/?wg-choose-original=false to https://amgaka.com/en/terms/
+16:36:14	Warning: 	Moved Permanently for https://amgaka.com/?p=626
+16:36:14	Warning: 	File has moved from https://amgaka.com/?p=626 to https://amgaka.com/interpretes-pro/
+16:36:15	Warning: 	Found for https://amgaka.com/interpretes-pro/?wg-choose-original=true
+16:36:15	Warning: 	File has moved from https://amgaka.com/interpretes-pro/?wg-choose-original=true to https://amgaka.com/interpretes-pro/
+16:36:16	Warning: 	Moved Permanently for https://amgaka.com/?p=765
+16:36:16	Warning: 	File has moved from https://amgaka.com/?p=765 to https://amgaka.com/passiones-de-langues/
+16:36:16	Warning: 	Found for https://amgaka.com/passiones-de-langues/?wg-choose-original=true
+16:36:16	Warning: 	File has moved from https://amgaka.com/passiones-de-langues/?wg-choose-original=true to https://amgaka.com/passiones-de-langues/
+16:36:16	Warning: 	Moved Permanently for https://amgaka.com/?p=787
+16:36:16	Warning: 	File has moved from https://amgaka.com/?p=787 to https://amgaka.com/abonnement/
+16:36:16	Warning: 	Found for https://amgaka.com/abonnement/?wg-choose-original=true
+16:36:16	Warning: 	File has moved from https://amgaka.com/abonnement/?wg-choose-original=true to https://amgaka.com/abonnement/
+16:36:18	Warning: 	Moved Permanently for https://amgaka.com/?p=155
+16:36:18	Warning: 	File has moved from https://amgaka.com/?p=155 to https://amgaka.com/a-propos-de-nous/
+16:36:18	Warning: 	Found for https://amgaka.com/a-propos-de-nous/?wg-choose-original=true
+16:36:18	Warning: 	File has moved from https://amgaka.com/a-propos-de-nous/?wg-choose-original=true to https://amgaka.com/a-propos-de-nous/
+16:36:19	Warning: 	Moved Permanently for https://amgaka.com/?p=157
+16:36:19	Warning: 	File has moved from https://amgaka.com/?p=157 to https://amgaka.com/nous-contacter/
+16:36:19	Warning: 	Found for https://amgaka.com/nous-contacter/?wg-choose-original=true
+16:36:19	Warning: 	File has moved from https://amgaka.com/nous-contacter/?wg-choose-original=true to https://amgaka.com/nous-contacter/
+16:36:19	Warning: 	Found for https://amgaka.com/faq/?wg-choose-original=true
+16:36:19	Warning: 	File has moved from https://amgaka.com/faq/?wg-choose-original=true to https://amgaka.com/faq/
+16:36:19	Warning: 	Found for https://amgaka.com/privacy/?wg-choose-original=true
+16:36:19	Warning: 	File has moved from https://amgaka.com/privacy/?wg-choose-original=true to https://amgaka.com/privacy/
+16:36:19	Warning: 	Found for https://amgaka.com/terms/?wg-choose-original=true
+16:36:19	Warning: 	File has moved from https://amgaka.com/terms/?wg-choose-original=true to https://amgaka.com/terms/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 58 seconds : 218 links scanned, 185 files written (27774849 bytes overall) [26440041 bytes received at 224068 bytes/sec], 1840287 bytes transferred using HTTP compression in 81 files, ratio 18%, 8.2 requests per connection
+(4 errors, 59 warnings, 0 messages)
